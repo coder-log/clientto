@@ -1,0 +1,19 @@
+.container {
+    display:flex;
+    flex-direction:row;
+    background-color:grey;
+    width: 100%;
+    height:100vh;
+}
+.container-left{
+    background-color:#444444;
+    width: 20vh;
+}
+.container-middle {
+    background-color:#777777;
+    width: 40vh;
+}
+.container-right{
+    background-color:#999999;
+    width: 40vh;
+}
