@@ -1,0 +1,35 @@
+.plan-campaign-wrap {
+    max-width: 600px;
+}
+
+.plan-campaign {
+    margin: 0.5rem;
+}
+
+.plan-campaign-head {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px 15px 0 15px;
+    color: #686F7A;
+    box-sizing: border-box;
+    background-color: lightblue;
+}
+
+ul {
+    background-color: lightgray;
+}
+li {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom: dashed 0.05rem white;
+    padding: 0.5rem;
+    margin: 0.05rem;
+    list-style-type: none;
+}
+
+i.far.fa-check-square {
+    color: black;
+}
